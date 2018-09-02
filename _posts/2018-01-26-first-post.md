@@ -1,4 +1,5 @@
 ---
+layout: single
 title: "Hello blog"
 date: 2018-08-30 15:49:28 -0400
 categories: jekyll update
