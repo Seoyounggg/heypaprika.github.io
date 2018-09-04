@@ -1,6 +1,4 @@
 main:
-  - title: "Quick-Start Guide"
-    url: /docs/quick-start-guide/
   - title: "Posts"
     url: /year-archive/
   - title: "Categories"
@@ -11,5 +9,5 @@ main:
     url: /page-archive/
   - title: "Blogs"
     url: /Blogs/
-  - title: "External Link"
-    url: https://google.com
+  - title: "NLC"
+    url: https://brethrenunion.com/newlife
