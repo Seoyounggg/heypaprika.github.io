@@ -6,6 +6,6 @@ author_profile: true
 comments: true
 ---
 
-  {% for product in collection.products %}
-    {{ product.title }}
-  {% endfor %}
+{% for product in collection.products %}
+  {{ product.title }}
+{% endfor %}
