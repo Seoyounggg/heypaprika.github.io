@@ -6,8 +6,7 @@ author_profile: true
 comments: true
 ---
 
-<html>
 {% for product in collection.products %}
   {{ product.title }}
 {% endfor %}
-</html>
+
