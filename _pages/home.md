@@ -8,7 +8,3 @@ header:
   cta_url: "/docs/quick-start-guide/"
   caption:
 ---
-
-{% include feature_row id="intro" type="center" %}
-
-{% include feature_row %}
