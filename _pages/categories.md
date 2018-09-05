@@ -6,4 +6,6 @@ author_profile: true
 comments: true
 ---
 
-This is my category page.
+  {% for product in collection.products %}
+    {{ product.title }}
+  {% endfor %}
