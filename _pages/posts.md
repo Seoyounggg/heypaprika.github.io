@@ -1,9 +1,7 @@
 ---
 title: "Posts"
-layout: single
+layout: posts
 permalink: /year-archive/
 author_profile: true
 comments: true
 ---
-
-This is my post page.
