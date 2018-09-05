@@ -1,6 +1,6 @@
 ---
 title:  "Pages"
-layout: archive
+layout: splash
 permalink: /page-archive/
 author_profile: true
 comments: true
