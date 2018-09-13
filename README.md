@@ -1,1 +1,1 @@
-# heypaprika.github.io
+# seoyoungg.github.io
